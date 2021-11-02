@@ -11,3 +11,10 @@ h1{
   background-color:rgb(203, 240, 255);
   padding: 10px 0px 10px 15px; 
 }
+
+#navigation{
+  background-color: rgb(255, 170, 227);
+  padding: 15px;
+  width: auto;
+  text-align: center;
+}
